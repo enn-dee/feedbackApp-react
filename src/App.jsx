@@ -5,7 +5,7 @@ export default function App() {
   return(
     
   <>
-    <Header />
+    <Header bgColor='#ccc'  color='#252525'/>
     <h1>My App</h1>
   </>
   )
